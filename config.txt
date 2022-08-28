@@ -1,0 +1,19 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxb094a6a41140f584",
+# 公众号appSecret
+"app_secret": "429bd3654598c668374339e02c5458e4",
+# 模板消息id
+"template_id": "ZD4hXMGNkjcmfXJ-O-QxIwMq0EYFgANt5t-9-pBTkNU",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oXGMX6OtvHuPB2nrLaYXG65sAwOs"],
+
+# 信息配置
+# 所在省份
+"province": "四川",
+# 所在城市
+"city": "宜宾",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "小邱", "birthday": "2006-12-09"},
+}
